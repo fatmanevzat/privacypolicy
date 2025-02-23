@@ -1,4 +1,4 @@
-# privacypolicy
+# Privacy Policy
 
 Privacy Policy
 This privacy policy applies to the Shining Teeth app (hereby referred to as "Application") for mobile devices that was created by AHMET SALIH YALCIN (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
